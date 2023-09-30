@@ -1,0 +1,131 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3982042 */
+  src: url('iconfont.woff2?t=1679991057991') format('woff2'),
+       url('iconfont.woff?t=1679991057991') format('woff'),
+       url('iconfont.ttf?t=1679991057991') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon-test:before {
+  content: "\e634";
+}
+
+.icon-weixiu:before {
+  content: "\e602";
+}
+
+.icon-aichegujiabeifen7:before {
+  content: "\e603";
+}
+
+.icon-xinchebaojia:before {
+  content: "\e604";
+}
+
+.icon-wodekanjia:before {
+  content: "\e605";
+}
+
+.icon-aichegujiabeifen:before {
+  content: "\e606";
+}
+
+.icon-zhuanjiadayibeifen:before {
+  content: "\e607";
+}
+
+.icon-zuobaoyang:before {
+  content: "\e608";
+}
+
+.icon-youkachongzhi:before {
+  content: "\e609";
+}
+
+.icon-maichepin:before {
+  content: "\e60a";
+}
+
+.icon-maichexianbeifen:before {
+  content: "\e60b";
+}
+
+.icon-huanluntai:before {
+  content: "\e60c";
+}
+
+.icon-baoyangshoucebeifen:before {
+  content: "\e60d";
+}
+
+.icon-aichegujiabeifen12:before {
+  content: "\e60e";
+}
+
+.icon-fakuandaijiaobeifen:before {
+  content: "\e60f";
+}
+
+.icon-xinchebibei:before {
+  content: "\e610";
+}
+
+.icon-chaweizhang:before {
+  content: "\e611";
+}
+
+.icon-aichegujiabeifen5:before {
+  content: "\e612";
+}
+
+.icon-zhuanchezhuanyongbeifen:before {
+  content: "\e613";
+}
+
+.icon-zizhuxiche:before {
+  content: "\e614";
+}
+
+.icon-jinrongmaichebeifen:before {
+  content: "\e615";
+}
+
+.icon-jiazhaochafenbeifen:before {
+  content: "\e616";
+}
+
+.icon-nianjiandaibanbeifen:before {
+  content: "\e617";
+}
+
+.icon-yonghufankuibeifen:before {
+  content: "\e618";
+}
+
+.icon-quanyizhongxinbeifen:before {
+  content: "\e619";
+}
+
+.icon-mendian:before {
+  content: "\e61a";
+}
+
+.icon-zhibomaiche:before {
+  content: "\e61b";
+}
+
+.icon-aichegujiabeifen6:before {
+  content: "\e61c";
+}
+
+.icon-remaihaoche:before {
+  content: "\e61d";
+}
+
